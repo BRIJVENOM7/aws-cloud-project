@@ -61,6 +61,7 @@ Additional:
 * Create distribution
 * Connect S3 bucket
 * Deploy and access via URL
+* Live Demo: https://xyz.cloudfront.net
 
 ---
 
