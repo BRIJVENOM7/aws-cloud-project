@@ -1,0 +1,10 @@
+User
+  ↓
+CloudFront (CDN)
+  ↓
+S3 Bucket (Static Website)
+
+Side Services:
+- IAM (Security)
+- CloudWatch (Monitoring)
+- AWS Budgets (Cost Control)
